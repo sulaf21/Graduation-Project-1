@@ -1,1 +1,1 @@
-# Graduation-Project-1
+This is my Graduation one project, I'm one of the very few students who managed to get an A for GD-P 1, you may read the document and see why, the best part about it is the UML drawings that map the system fully, they took lots of time and care. This project is different because we dealt with a real system within our university and its real database, with intensive interaction and interviews with the e-learning staff at the e-learning center at the Jordan university of science and technology (JUST).
